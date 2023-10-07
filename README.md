@@ -4,7 +4,7 @@
 
 SynapseX is a Python-based application designed to simplify the synchronization of your music playlists between YouTube and Spotify. Say goodbye to the hassle of manually recreating your playlists on both platforms and enjoy the convenience of having your music library seamlessly accessible on YouTube and Spotify.
 
-## Key Features
+## Key Features 
 
 - **Effortless Playlist Syncing**: SynapseX uses the YouTube and Spotify APIs to make playlist synchronization a breeze. You can sync your entire YouTube music library or choose specific playlists to transfer.
 
